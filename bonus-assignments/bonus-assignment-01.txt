@@ -1,0 +1,26 @@
+Steps are to be completed in order, as the next question depends on the previous one.
+Please paste your commands as answers.
+
+1. Open a new shell and use an editor (e.g., nano) to create a new file called bonus1.txt, with the contents 'This is a file'.
+
+2. Verify if the file was created with a command
+
+3. Make a new directory called bonus1
+
+4. Change into bonus1
+
+5. Move bonus1.txt to bonus1 and rename it to bonus1_final.txt
+
+6. Print the path of your current directory
+
+7. Display the contents of bonus1_final.txt
+
+8. Go to your home directory
+
+9. Copy bonus1_final.txt to this directory
+
+10. Delete bonus1_final.txt in your home directory
+
+11. Delete bonus1 and its contents
+
+12. List the contents of your home directory in long format, including hidden files
