@@ -1,0 +1,46 @@
+Meet with your team to discuss the details of how you are going to 
+approach the group assignment. The more details you provide the higher
+the chance of getting credit for this bonus assignment. 
+
+Make sure you review the project overview PDF
+https://utk.instructure.com/courses/180504/files/17718372?wrap=1
+
+Note: this is an initial plan; it will likely change as you into things
+      try and make your plan as accurate/realistic as possible.
+
+TO GET CREDIT!
+* Fill in answers on one team members computer
+* Share file to all team members
+* Open a pull request to *your* bonus repo (ie the one named firstname-lastname-bonus-repo)
+
+------------
+
+Question 1:
+How often are you going to meet?
+
+Question 2:
+Which tools and communication technology are you going to use?
+
+Question 3:
+Who is going to complete which tasks?
+
+Question 4:
+What are the expected completion dates of each task?
+
+Question 5:
+Who is going to be the repo owner?
+
+Question 6:
+What is your process to accomplish tasks and review code?
+
+Question 7:
+How are you going to hold each team member accountable to stay on top of their tasks?
+
+Question 9:
+Ensure your repo owner has:
+* created a *private* repo
+* added all team members as collaborators
+* added AdamSpannbauer and abdullah-salau as collaborators
+* optional (but encouraged) extra step: protect the main branch from being committed to directly
+
+Provide a link to your group's repo below when those steps have been completed
