@@ -1,0 +1,45 @@
+Steps are to be completed in order, as the next question depends on the previous one.
+Please paste your commands as answers.
+
+1. Open a new shell and use an editor (e.g., nano) to create a new file called bonus1.txt, with the contents 'This is a file'.
+nano bonus1.txt
+# type 'This is a file' in the editor
+# [CTRL]+[O] > [Enter] to save
+# [CTRL]+[X] to exit
+
+2. Verify if the file was created with a command
+ls
+cat bonus1.txt
+# Either is fine & some possible other answers
+
+3. Make a new directory called bonus1
+mkdir bonus1
+
+4. Change into bonus1
+cd bonus1
+
+5. Move bonus1.txt to bonus1 and rename it to bonus1_final.txt
+mv ../bonus1.txt ./bonus1_final.txt
+
+6. Print the path of your current directory
+pwd
+
+7. Display the contents of bonus1_final.txt
+cat bonus1_final.txt
+
+8. Go to your home directory
+cd ~
+
+9. Copy bonus1_final.txt to this directory
+cp bonus1/bonus1_final.txt .
+# Could differ depending on your paths
+
+10. Delete bonus1_final.txt in your home directory
+rm bonus1_final.txt
+
+11. Delete bonus1 and its contents
+rm -r bonus1
+# Could differ depending on your paths
+
+12. List the contents of your home directory in long format, including hidden files
+ls -la
