@@ -1,0 +1,24 @@
+Charles Deaton - Bonus 2
+
+Here are the Bash commands to complete the steps you've outlined:
+1.	Clone your personal bonus repo:
+git clone https://github.com/cdeaton3/charles-deaton-bonus-repo.git
+2.	Clone the bonus-assignments repo:
+git clone https://github.com/f23-bzan545/bonus-assignments.git
+3.	Change directory into your bonus repo:
+cd charles-deaton-bonus-repo/
+4.	Create and switch to a new branch called bonus_2:
+git checkout -b bonus_2 
+5.	Copy the bonus-assignment-02.txt from the bonus-assignments repo to a file called firstname-lastname-2.txt in your personal bonus repo:
+cp ../bonus-assignments/bonus-assignment-02.txt ./charles-deaton-2.txt
+6.	Open firstname-lastname-2.txt to edit it:
+nano charles-deaton-2.txt 
+7.	Commit your changes to branch bonus_2 with the commit message: git add firstname-lastname-2.txt 
+git commit  -m "Answer questions 1 to 6" 
+8.	Get the status:
+git status 
+9.	After writing the command in this file for step 8, commit again, this time with commit message "Answer question 8":
+# Edit the file with your answer for step 8 nano firstname-lastname-2.txt # Commit the changes git add firstname-lastname-2.txt 
+git commit  -m "Answer question 8"
+10.	Write the command to push bonus_2 to your repo:
+git push origin bonus_2 
