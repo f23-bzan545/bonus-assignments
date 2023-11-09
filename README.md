@@ -13,6 +13,17 @@ Bonus assignment starter files will appear here!
 * Open a pull-request to merge your branch into the `main`/`master` branch of your bonus repo
 * Mark `abdullah-salau` as a reviewer
 
+For future PRs
+
+* in your repo -> `git checkout master`
+* `git pull` - to pull in updates
+* `git checkout -b new_bonus_branch` (use a more useful name like `bonus_11`)
+* do you work
+* `git add file`
+* `git commit -m 'add bonus file'`
+* `git push`
+* Open PR
+
 ## Why to
 
 ### Learning ig
